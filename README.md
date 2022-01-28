@@ -13,5 +13,5 @@
 <br><h2 align="center">Connect with me!</h2>
 <div align="center">
 <a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60px"/></a>
-<a href="mywa.link/gc8pgd50" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60px"/></a>
+<a href="https://api.whatsapp.com/send?phone=917980369670&text=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60px"/></a>
 </div>
