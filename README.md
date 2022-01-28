@@ -6,20 +6,12 @@
 
 <h2 align="center">I've worked with</h2>
 
-
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br><h2 align="center">Connect with me!</h2>
 <div align="center">
-<a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="codesploit" /></a>
+<a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60px"/></a>
+<a href="mywa.link/gc8pgd50" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60px"/></a>
 </div>
-
-  
-
-<!---
-Dyslex7c/Dyslex7c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
