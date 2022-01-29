@@ -1,6 +1,8 @@
 <div align="center">
   
-  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyslex7c.visitor-badge)"/>
+
   <h1 align="center">Hey There, I'm Ritesh!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
   <p align="center">I'm a 17 y/o technophile currently studying in 11ᵗʰ grade(PCMCs+E)</p><br>
 
