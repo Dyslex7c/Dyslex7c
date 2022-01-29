@@ -4,7 +4,7 @@
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dyslex7c.visitor-badge)"/>
 
   <h1 align="center">Hey There, I'm Ritesh!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
-  <p align="center">I'm a 17 y/o technophile currently studying in 11ᵗʰ grade(PCMCs+E)</p><br>
+  <p align="center">I'm a 17 y/o technophile currently studying in 11ᵗʰ grade(PCMCs+E) in <a href="https://www.southpoint.edu.in/">South Point High School</a></p><br>
 
 <h2 align="center">I've worked with</h2>
 
