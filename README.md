@@ -12,8 +12,9 @@
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<br><h2 align="center">Connect with me!</h2>
+<br><h2 align="center">Let's Get Connected!</h2>
 <div align="center">
-<a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60px"/></a>
-<a href="https://api.whatsapp.com/send?phone=917980369670&text=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60px"/></a>
+<a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=917980369670&text=" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
