@@ -18,3 +18,13 @@
 <a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=917980369670&text=" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<br />
+<br />
+<br />
+ <p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dyslex7c&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dyslex7c&theme=algolia" />
+</p>
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Dyslex7c&theme=rogue" />
