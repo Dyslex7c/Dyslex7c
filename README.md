@@ -27,4 +27,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dyslex7c&theme=algolia" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Dyslex7c&theme=rogue" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Dyslex7c&theme=react-dark" />
