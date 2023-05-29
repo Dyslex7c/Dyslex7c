@@ -29,7 +29,7 @@
 <br />
 <br />
  <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dyslex7c&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" /> 
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dyslex7c&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Dyslex7c&theme=transparent" />
   <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dyslex7c&theme=high-contrast" alt="Ritesh Das's Graph"/></p> 
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyslex7c&show_icons=true&locale=en&layout=compact" alt="dyslex7c" /></p>
