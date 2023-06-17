@@ -7,13 +7,15 @@
   <p align="center">I'm a 18 y/o technophile currently studying in 12ᵗʰ grade(PCMCs+E) in <a href="https://www.southpoint.edu.in/">South Point High School</a></p><br>
 
 <h2 align="center">I'm currently learning</h2>
-
-![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align = "left">
+<a><img align = "center" src = "https://i.imgur.com/87Qf2ip.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/2gwxzY7.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/dq2JVwT.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/VLo6GiH.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/7uPQtvu.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/GNREvlr.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/NP2hRFA.png" width = "50px"></a>
+  </div>
 
   <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 <br><h2 align="left">Let's Get Connected!</h2>
