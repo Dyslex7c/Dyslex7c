@@ -17,7 +17,7 @@
 <a><img align = "center" src = "https://i.imgur.com/NP2hRFA.png" width = "50px"></a>
   </div>
 
-  <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+  <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 <br><h2 align="left">Let's Get Connected!</h2>
   
 <div align="left">
