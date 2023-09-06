@@ -5,7 +5,7 @@
   <img align="left" src="https://visitcount.itsvg.in/api?id=Dyslex7c&label=Profile%20Views&color=12&icon=6&pretty=false" />
 </a>
   <h2 align="center">Hey There, I'm Ritesh!👋🏼</h2>
-  <p align="center">I'm a 18 y/o technophile currently studying in 12ᵗʰ grade(PCMCs+E) in <a href="https://www.southpoint.edu.in/">South Point High School</a></p><br>
+  <p align="center">I'm a 18 y/o technophile currently pursuing B.tech in CSE at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
 
 <h2 align="center">I'm currently learning</h2>
 <div align = "left">
