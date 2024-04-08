@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Gg4tR3p.png"/>
-  
+  <img src="https://i.imgur.com/Iob6T0s.png"/>
 <a href="https://visitcount.itsvg.in">
   <img align="left" src="https://visitcount.itsvg.in/api?id=Dyslex7c&label=Profile%20Views&color=12&icon=6&pretty=false" />
 </a>
