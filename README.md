@@ -12,9 +12,14 @@
 <a><img align = "center" src = "https://i.imgur.com/2gwxzY7.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/dq2JVwT.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/VLo6GiH.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/sjdISoF.png" width = "150px"></a>
 <a><img align = "center" src = "https://i.imgur.com/7uPQtvu.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/GNREvlr.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/NP2hRFA.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/eYtLGWn.png" width = "50px"></a>
+
+
+  
   </div>
 
   <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
