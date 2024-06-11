@@ -22,9 +22,9 @@
   
   </div>
 
-  <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
+
 <br><h2 align="left">Let's Get Connected!</h2>
-  
+  <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 <div align="left">
 <a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://i.imgur.com/CQYa3Ei.png" width = "50px"></a>
 <a href="https://www.facebook.com/profile.php?id=100078625377243" target="blank"><img align="center" src=https://i.imgur.com/n4ONavO.png width = "50px"></a>
@@ -32,13 +32,22 @@
 <a href="https://github.com/Dyslex7c" target="blank"><img align="center" src="https://i.imgur.com/DDcmmkZ.png" width = "50px"></a>
 <a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://i.imgur.com/mulsWoC.png" width = "50px"></a>
  </div>
-  <div>
-  <a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</a>
-</div>
 
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
  <div>
  <p>
   <img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dyslex7c&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" /> 
