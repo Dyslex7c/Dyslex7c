@@ -23,11 +23,10 @@
 <br><h2 align="left">Let's Get Connected!</h2>
   <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 <div align="left">
-<a href="https://www.youtube.com/channel/UC5CW-WyPvWUk2fUcU_NIbkw" target="blank"><img align="center" src="https://i.imgur.com/CQYa3Ei.png" width = "50px"></a>
-<a href="https://www.facebook.com/profile.php?id=100078625377243" target="blank"><img align="center" src=https://i.imgur.com/n4ONavO.png width = "50px"></a>
-<a href="https://www.instagram.com/i_berlusconi7/?theme=dark" target="blank"><img align="center" src=https://i.imgur.com/GYtC5XP.png width = "50px"></a>
-<a href="https://github.com/Dyslex7c" target="blank"><img align="center" src="https://i.imgur.com/DDcmmkZ.png" width = "50px"></a>
-<a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://i.imgur.com/mulsWoC.png" width = "50px"></a>
+<a href="https://www.linkedin.com/in/ritesh-das-066205288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height = "40" width = "50"></a>
+<a href="https://www.instagram.com/i_berlusconi7/?theme=dark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height = "40" width = "50"></a>
+<a href="https://github.com/Dyslex7c" target="blank"><img align="center" src="https://i.imgur.com/DDcmmkZ.png" height = "50" width = "50"></a>
+<a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://i.imgur.com/mulsWoC.png" height = "50" width = "50"></a>
  </div>
 
 <br>
