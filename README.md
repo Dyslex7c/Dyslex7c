@@ -4,7 +4,7 @@
   <img align="left" src="https://visitcount.itsvg.in/api?id=Dyslex7c&label=Profile%20Views&color=12&icon=6&pretty=false" />
 </a>
   <h2 align="center">Hey There, I'm Ritesh!👋🏼</h2>
-  <p align="center">I'm a 19 y/o technophile currently pursuing B.tech in CSE at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
+  <p align="center">I'm a 19 y/o technophile currently pursuing B.tech in Computer Science at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
 
 <h2 align="center">I'm currently learning</h2>
 <div align = "left">
