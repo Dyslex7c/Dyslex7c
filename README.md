@@ -8,6 +8,7 @@
 
 <h2 align="center">I'm currently learning</h2>
 <div align = "left">
+<a><img align = "center" src = "https://i.imgur.com/GXqwXNO.png" width = "58px"></a>
 <a><img align = "center" src = "https://i.imgur.com/87Qf2ip.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/2gwxzY7.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/dq2JVwT.png" width = "50px"></a>
