@@ -18,7 +18,7 @@
 <a><img align = "center" src = "https://i.imgur.com/GNREvlr.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/NP2hRFA.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/eYtLGWn.png" width = "50px"></a>
-<a><img align = "center" src = "https://i.imgur.com/VgDa6Zm.png" width = "50px"></a>
+<a><img align = "center" src = "https://i.imgur.com/bB8Jcmo.png" width = "50px"></a>
 
   </div>
 
