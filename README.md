@@ -6,9 +6,9 @@
   <h2 align="center">Hey There, I'm Ritesh!👋🏼</h2>
   <p align="center">I'm a 19 y/o technophile currently pursuing B.tech in Computer Science at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
 
-<h2 align="center">I'm currently learning</h2>
-<div align = "left">
-<a><img align = "center" src = "https://i.imgur.com/GXqwXNO.png" width = "58px"></a>
+<h3 align="left">Tech Stack</h3>
+<!--
+<a href = "https://g.co/kgs/yws1JiP" target = "_blank"><img align = "center" src = "https://i.imgur.com/GXqwXNO.png" width = "58px"></a>
 <a><img align = "center" src = "https://i.imgur.com/87Qf2ip.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/2gwxzY7.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/dq2JVwT.png" width = "50px"></a>
@@ -19,11 +19,13 @@
 <a><img align = "center" src = "https://i.imgur.com/NP2hRFA.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/eYtLGWn.png" width = "50px"></a>
 <a><img align = "center" src = "https://i.imgur.com/bB8Jcmo.png" width = "50px"></a>
+  -->
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/NP2hRFA.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/VLo6GiH.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/dq2JVwT.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/sjdISoF.png" alt="mongodb" width="150" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/eYtLGWn.png" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/bB8Jcmo.png" alt="typescript" width="40" height="40"/> </a> </p>
 
   </div>
 
 
-<br><h2 align="left">Let's Get Connected!</h2>
+<br><h3 align="left">Let's Get Connected!</h3>
   <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 <div align="left">
 <a href="https://www.linkedin.com/in/ritesh-das-066205288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height = "40" width = "50"></a>
