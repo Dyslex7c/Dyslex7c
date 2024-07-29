@@ -5,7 +5,6 @@
 </a>
   <h2 align="center">Hey There, I'm Ritesh!👋🏼</h2>
   <p align="center">I'm a 19 y/o technophile currently pursuing B.tech in Computer Science at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
-
 <h3 align="left">Tech Stack</h3>
 <!--
 <a href = "https://g.co/kgs/yws1JiP" target = "_blank"><img align = "center" src = "https://i.imgur.com/GXqwXNO.png" width = "58px"></a>
@@ -24,8 +23,8 @@
 
   </div>
 
-
-<br><h3 align="left">Let's Get Connected!</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="left">Let's Get Connected!</h3>
   <img align = "right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px"/>
 <div align="left">
 <a href="https://www.linkedin.com/in/ritesh-das-066205288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height = "40" width = "50"></a>
@@ -57,4 +56,3 @@
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dyslex7c&show_icons=true&locale=en&layout=compact" alt="dyslex7c" /></p>
 </p>
   </div>
-
