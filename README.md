@@ -32,22 +32,7 @@
 <a href="https://github.com/Dyslex7c" target="blank"><img align="center" src="https://i.imgur.com/DDcmmkZ.png" height = "50" width = "50"></a>
 <a href="https://discord.com/invite/ETDqM6XMct" target="blank"><img align="center" src="https://i.imgur.com/mulsWoC.png" height = "50" width = "50"></a>
  </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <div>
  <p>
   <img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dyslex7c&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" /> 
