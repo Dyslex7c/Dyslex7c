@@ -5,7 +5,7 @@
 </a>
   <h2 align="center">Hey There, I'm Ritesh!👋🏼</h2>
   <p align="center">I'm a 19 y/o technophile currently pursuing B.tech in Computer Science at <a href="https://www.heritageit.edu/">Heritage Institute of Technology</a></p><br>
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack 💻</h3>
 <!--
 <a href = "https://g.co/kgs/yws1JiP" target = "_blank"><img align = "center" src = "https://i.imgur.com/GXqwXNO.png" width = "58px"></a>
 <a><img align = "center" src = "https://i.imgur.com/87Qf2ip.png" width = "50px"></a>
